@@ -1,0 +1,15 @@
+Algoritmo-8
+Se debe generar un algoritmo que permite calcular y mostrar el valor total a pagar mensual de servicios digitales de una persona. Los servicios digitales son: netflix, youtube premium, dropbox, spotify. Si la persona es menor a 30 años se descuenta el 20% del total mensual.
+
+1. Inicio
+2. Se ingresa el pago mensual de Netflix
+3. Se ingresa el pago mensual de Youtube premium
+4. Se ingresa el pago mensual de Dropbox 
+5. Se ingresa el pago mensual de Spotify
+6. Se ingresa la fecha de nacimiento del usuario
+7. Se realiza una suma de todos los pagos mensuales de los servicios digitales ingresados por el usuario
+8. Con la fecha de nacimiento, revisamos la edad del usuario, si es menor a 30 años, se procedera a realizar un descuento del 20% en el total
+9. Si el usuario es mayor o igual a los 30 años, no se realizara ningun descuento
+10.Si el usuario es menor a 30 años, al resultado de la suma de los pagos mensuales, se multiplica por el 20% y se divide para 100, al resultado obtenido se lo resta del valor total a pagar
+10.Se muestra el valor total a pagar mensual de los servicios digitales 
+11.Fin 

@@ -1,0 +1,8 @@
+Algoritmo-3
+Se desea desarrollar un algoritmo que permita mostrar la tabla de multiplicar de un número ingresado por el usuario; solo en el caso que el valor del número esté entre 2 y 6.
+
+1.Inicio
+2.Se muestra un mensaje diciendo "Ingrese un numero cuyo valor este entre 2 y 6 para obtener su tabla de multiplicacion"
+3.En caso de que el valor ingresado este entre 2 y 6, se muestra en pantalla la multiplicacion entre el valor ingresado y los primeros 12 numeros
+4.En caso de que el valor ingresado sea diferente de un numero entre 2 y 6, se muestra en pantalla el siguiente mensaje "El valor ingresado no se encuentra entre el rango requerido"
+5.Fin 
